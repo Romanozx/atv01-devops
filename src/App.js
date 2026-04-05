@@ -6,16 +6,20 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Atividade 01 - DevOps</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Este projeto demonstra o fluxo de versionamento <strong>Git Flow</strong>.
+        </p>
+        <p>
+          Ambiente atual: <code>Desenvolvimento</code>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/seu-usuario" // Troque pelo seu link
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Ver Repositório no GitHub
         </a>
       </header>
     </div>
